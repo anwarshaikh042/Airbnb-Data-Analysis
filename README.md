@@ -56,7 +56,7 @@ Airbnb-Data-Analysis/
 
 🚀 How to Run
 Clone the repository
-git clone https://github.com/yourusername/Airbnb-Data-Analysis.git
+git clone https://github.com/anwarshaikh042/Airbnb-Data-Analysis/commits?author=anwarshaikh042
 
 Install required libraries
 pip install pandas numpy matplotlib seaborn
